@@ -3,7 +3,7 @@ package gorelic
 import (
 	"errors"
 	"fmt"
-	metrics "github.com/yvasiyarov/go-metrics"
+	metrics "github.com/rcrowley/go-metrics"
 	"github.com/yvasiyarov/newrelic_platform_go"
 	"log"
 	"net/http"

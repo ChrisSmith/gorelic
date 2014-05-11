@@ -2,7 +2,7 @@ package gorelic
 
 import (
 	"fmt"
-	metrics "github.com/yvasiyarov/go-metrics"
+	metrics "github.com/rcrowley/go-metrics"
 )
 
 const (
